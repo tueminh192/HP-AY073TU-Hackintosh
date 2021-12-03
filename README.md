@@ -37,7 +37,15 @@ Stable, fast, high performance
 - Install HeliPort 
 - Set it open with startup
 
+# Adding SMBIOS
+- Download <a href="https://mackie100projects.altervista.org/download-opencore-configurator/">Opencore Configurator</a>
+- Mount EFI
+- Open Config.Plist using Opencore Configurator
+- Go to Platform info
+- Add MacbookPro12,1 SMBIOS
+
+
 # Credit
 - Special thanks to <a href="https://github.com/acidanthera">Acidanthera</a> for all of those kext
 - Special thanks to <a href="https://github.com/zxystd">zxystd</a> for Itlwm, Intel BluetoothFirmware and HeliPort
-- Special thanks to Apple for macOS
+
