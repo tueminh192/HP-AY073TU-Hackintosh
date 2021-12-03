@@ -1,0 +1,2 @@
+# HP-AY073TU-Hackintosh
+EFI for HP AY073TU
