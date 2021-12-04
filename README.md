@@ -2,9 +2,6 @@
 Successful install macOS Monterey on HP AY073TU laptop
 
 
-# OVR:
-Stable, fast, high performance
-
 # Specs:
 
 * CPU: i5 5005U
@@ -42,7 +39,7 @@ Stable, fast, high performance
 - Mount EFI
 - Open Config.Plist using Opencore Configurator
 - Go to Platform info
-- Add MacbookPro12,1 SMBIOS
+- Add MacbookPro12,1 or MacbookAir7,2 SMBIOS
 
 
 # Credit
